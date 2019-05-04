@@ -1,4 +1,4 @@
-This fork is intended to hide the cursor on touch screen or pen activity. The idea is simple: Listen to 2 groups of input devices, activity on one showing the cursor, activity in the other hiding it. Solves the slight annoyance of having to see the mouse cursor using the touch screen on KDE on Xorg (while waiting for the Wayland version to gain pen support). 
+This fork is intended to hide the cursor on touch screen or pen activity. The idea is simple: Listen to 2 groups of input devices, activity on one showing the cursor, activity in the other hiding it. Solves the slight annoyance of having to see the mouse cursor using the touch screen on KDE on Xorg (while waiting for the Wayland version to gain pen support). Remember that the user running this needs to be part of the input group to read input devices. 
 
 hhpc
 ====
