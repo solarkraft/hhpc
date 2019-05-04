@@ -1,3 +1,5 @@
+This fork is intended to hide the cursor on touch screen or pen activity. 
+
 hhpc
 ====
 
